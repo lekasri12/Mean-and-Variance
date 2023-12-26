@@ -1,5 +1,5 @@
 Date : 
-#  Mean and variance of a discrete  distribution
+
 Developed by :Leka Sri G
 Reg.no: 212223100025
 
